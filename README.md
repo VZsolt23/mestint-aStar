@@ -23,7 +23,7 @@ Az A* algoritmus nagyon hatékony, ha a heurisztikus becslés jó közelítést 
 
 ## Az alkalmazásban felhasznált útvonalak
 
-![Képernyőkép 2023-05-18 143934.png](Mestint%20beadando%CC%81%20-%20Sza%CC%81lli%CC%81ta%CC%81si%20proble%CC%81ma%20A%20kere%208bc36f169fdc40cdb2464ff0401e2078/Kpernykp_2023-05-18_143934.png)
+![Az útvonalak ábrája.png](image/abra.png)
 
 A számokkal mérhető adatok nincsenek kiírva, ugyanis az alkalmazás számolja ki azokat az útvonalak helyzetéből adódóan. A helyszínek elhelyezkedését a hosszúsági és szélességi értékek adják meg. Az indítás után automatikusan létrehozásra kerülnek az adatok.
 
